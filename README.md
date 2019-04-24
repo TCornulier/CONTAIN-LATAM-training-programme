@@ -44,6 +44,18 @@ The course assumes familiarity with the theory and practice of linear modelling 
 We will provide links to introductory material on linear modelling and R, should participants wish to update their skills in preparation for the course.
 Complete R code will be provided for all the practical workshops, and teaching assistants will be available to support the participants.
 
+### Software
+You will need a recent (preferably the latest) version of R on your computer, including the following additional packages:
+- rgdal
+- rgeos
+- sp
+- tmap
+- viridis
+- shiny
+- shinythemes
+- RColorBrewer
+- RCurl
+- gamm4
 
 ## Part 2: Introduction to Bayesian modelling for population ecology 
 ### (tentative programme)
