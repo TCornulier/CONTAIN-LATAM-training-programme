@@ -98,7 +98,7 @@ ample hands-on practice with real data, in R.
 * Occupancy models
 * Mark-recapture models
 * Integrated population models (IPMs)
-* Spatial IPMs with Ordinary differential Equations
+* Spatial IPMs
 
 ### Prerequisites
 This part of the course requires prior attendance to part 2, or equivalent experience. Complete R and BUGS code will be provided for all the practical workshops, and teaching assistants will be available to support the participants.
