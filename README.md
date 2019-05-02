@@ -32,11 +32,12 @@ We will explore a range of modelling strategies that enable the use of such mode
 ### Topics
 * Generalized Linear Models for presence/absence and count data
 * Accounting for survey effort
-* Models for structured errors
 * Clusters
+* Generalized additive models: capturing non-linear change with smoothing splines
+* Models for structured errors
 * Temporal correlation
 * Spatial correlation
-* Generalized additive models: capturing non-linear change with smoothing splines
+
 * Combining different structures in one model: which and why.
 
 ### Prerequisites
