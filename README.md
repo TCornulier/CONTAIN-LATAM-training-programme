@@ -58,14 +58,18 @@ You will need a recent (preferably the latest) version of R on your computer, in
 - RCurl
 - gamm4
 
-## Part 2: Introduction to Bayesian modelling for population ecology 
-### (tentative programme)
-**3 days - dates and location to be confirmed (during Austral Summer 2019/2020, in Argentina or Chile)**
+## Parts 2 & 3: Introduction to Bayesian modelling and Bayesian modelling for population ecology
+**2 & 5 days (with a weekend break), December 2019, Bariloche, Argentina**
+Parts 2 and 3 can be taken as a follow-up to part 1, or as a standalone course. 
+Guests from outside the LATAM-CONTAIN project must take parts 2 & 3 together.
+
+## Part 2: Introduction to Bayesian modelling
+**5-6th December 2019 Bariloche, Argentina**
 
 ### Context & Aims
 The second part of this course will introduce the Bayesian modelling framework, with linear and hierarchical modelling applications. We will provide an intuitive introduction to the basic theory and methods, illustrated by research seminars, practical activities and applications with real data.
-Part 2 of the course will introduce you to techniques like MCMC estimation using the BUGS language, and to the idea of incorporating expert knowledge in the analysis through the use of Bayesian priors. 
-We will illustrate these concepts using some of the models covered in part 1, as well as by introducing models for observation error and missing data. This part of the course will provide you with the foundations for understanding the important and growing part of modern ecological modelling literature which employs Bayesian approaches, and will enable you to move on to more advanced population models (Course part 3). 
+The course will introduce you to techniques like MCMC estimation using the BUGS language, and to the idea of incorporating expert knowledge in the analysis through the use of Bayesian priors. 
+We will illustrate these concepts using some of the models covered in part 1. This part of the course will provide you with the foundations for understanding the important and growing part of modern ecological modelling literature which employs Bayesian approaches, and will enable you to move on to more advanced population models (Course part 3). 
 
 ### Course format 
 * research seminars, illustrating the context in which the tools may be applied, 
@@ -75,17 +79,27 @@ We will illustrate these concepts using some of the models covered in part 1, as
 ### Topics
 * Bayes rule
 * Bayesian modelling, priors and likelihood
-* Markov Chain Monte-Carlo estimation
+* Markov Chain Monte-Carlo estimation with rJAGS
 * Bayesian analysis of GLM and hierarchical models
-* Models for observation error and missing data
 
 ### Prerequisites
-As for Course part 1, plus familiarity with the theory and practice of generalized linear modelling. Complete R and BUGS code will be provided for all the practical workshops, and teaching assistants will be available to support the participants.
+As for Course part 1, plus familiarity with the theory and practice of generalized linear and multilevel (random effect) modelling. Complete R and BUGS code will be provided for all the practical workshops, and teaching assistants will be available to support the participants.
 
+### Software
+You will need a recent (preferably the latest) version of R and JAGS on your computer, including the following additional packages:
+- rgdal
+- viridis
+- shiny
+- shinythemes
+- RColorBrewer
+- RCurl
+- gamm4
+- rjags
+
+For instructions on downloading JAGS, see the home page at http://mcmc-jags.sourceforge.net.
 
 ## Part 3: Introduction to Integrated Population Models 
-### (tentative programme)
-**4 days, delivered in combination with part 2 (following a weekend break).**
+**5-6th December 2019 Bariloche, Argentina**
 
 ### Context & Aims
 The third part of the course will expand on part 2, and make use of the Bayesian modelling framework to fit population dynamics models. We will first explore several approaches for estimating demographic parameters from different types of data and observation processes, such as occupancy or capture-recapture data. We will then see how the different sources of information on demography may be combined into integrated population models (IPMs), in order to gain a better understanding of the population dynamics, to obtain more precise estimates of demographic parameters and their variation over time, space or life history stages. This part of the course will be essentially applied, illustrated by research seminars and applications with data.
@@ -96,10 +110,10 @@ short introductions to the theory underlying the statistical methods,
 ample hands-on practice with real data, in R.
 
 ### Topics
+* Models for observation error and missing data
 * Occupancy models
 * Mark-recapture models
 * Integrated population models (IPMs)
-* Spatial IPMs
 
 ### Prerequisites
 This part of the course requires prior attendance to part 2, or equivalent experience. Complete R and BUGS code will be provided for all the practical workshops, and teaching assistants will be available to support the participants.
