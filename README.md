@@ -59,7 +59,8 @@ You will need a recent (preferably the latest) version of R on your computer, in
 - gamm4
 
 ## Parts 2 & 3: Introduction to Bayesian modelling and Bayesian modelling for population ecology
-**2 & 5 days (with a weekend break), December 2019, Bariloche, Argentina**
+**2 + 5 days (with a weekend break), December 2019, Bariloche, Argentina**
+
 Parts 2 and 3 can be taken as a follow-up to part 1, or as a standalone course. 
 Guests from outside the LATAM-CONTAIN project must take parts 2 & 3 together.
 
