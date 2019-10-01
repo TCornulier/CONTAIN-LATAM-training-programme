@@ -104,7 +104,7 @@ You will need a recent (preferably the latest) version of R and JAGS on your com
 For instructions on downloading JAGS, see the home page at http://mcmc-jags.sourceforge.net.
 
 ## Part 3: Introduction to Integrated Population Models 
-**5-6th December 2019 Bariloche, Argentina**
+**9-13th December 2019 Bariloche, Argentina**
 
 ### Context & Aims
 The third part of the course will expand on part 2, and make use of the Bayesian modelling framework to fit population dynamics models. We will first explore several approaches for estimating demographic parameters from different types of data and observation processes, such as occupancy or capture-recapture data. We will then see how the different sources of information on demography may be combined into integrated population models (IPMs), in order to gain a better understanding of the population dynamics, to obtain more precise estimates of demographic parameters and their variation over time, space or life history stages. This part of the course will be essentially applied, illustrated by research seminars and applications with data.
