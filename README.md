@@ -81,6 +81,7 @@ We will illustrate these concepts using some of the models covered in part 1. Th
 * ample hands-on practice with real data, in R.
 
 ### Topics
+* Introduction to integrated population models in the context of adaptive wildlife management
 * Bayes rule
 * Bayesian modelling, priors and likelihood
 * Markov Chain Monte-Carlo estimation with rJAGS
